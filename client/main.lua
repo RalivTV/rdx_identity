@@ -85,6 +85,7 @@ RegisterNUICallback('register', function(data, cb)
 	if reason == "" then
 		TriggerServerEvent('rdx_identity:setIdentity', data, myIdentifiers)
 		EnableGui(false)
+		TriggerEvent("rdx_skin:openCreator")
 		Citizen.Wait(500)
 else
         RDX.ShowNotification(reason)		
