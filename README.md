@@ -10,9 +10,9 @@ Identity System for RDX Core
 * Add ```ensure rdx_identity``` to your ```server.cfg``` file
 * Now you are ready!
 
- 2 You need to do is insert the .sql file into your database.
+ You need to do is insert the .sql file into your database.
 
- 3-Add ```ensure rdx_identity``` in server.cfg
+ Add ```ensure rdx_identity``` in server.cfg
 
 ## Screens
 ![1](https://cdn.discordapp.com/attachments/686807996420063232/845642380509446194/unknown_1.png)
