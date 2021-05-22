@@ -1,8 +1,15 @@
-# rdx_identity
+# RDX Identity
+Identity System for RDX Core
 
-# 1- Extract the file, put it in your resource folder.
+## Requirements
+- [RDX Core]()
 
-# 2- Put in your server.sfg ensure rdx_loja
+## How to install
+* [Download the lastest version of RDX Identity]()
+* Copy and paste ```rdx_identity``` folder to ```resources/rdx_identity```
+* Add ```ensure rdx_identity``` to your ```server.cfg``` file
+* Now you are ready!
 
-## Screens
-![1](https://cdn.discordapp.com/attachments/686807996420063232/845642380509446194/unknown_1.png)
+## Features
+* Some features :D
+
