@@ -10,7 +10,6 @@ Identity System for RDX Core
 * Add ```ensure rdx_identity``` to your ```server.cfg``` file
 * Now you are ready!
 
-=======
 # 2- You need to do is insert the .sql file into your database.
 
 # 3- Put in your server.sfg ensure rdx_identity
