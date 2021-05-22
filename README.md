@@ -5,7 +5,7 @@ Identity System for RDX Core
 - [RDX Core]()
 
 ## How to install
-* [Download the lastest version of RDX Identity]()
+* Download the lastest version of RDX Identity
 * Copy and paste ```rdx_identity``` folder to ```resources/rdx_identity```
 * Add ```ensure rdx_identity``` to your ```server.cfg``` file
 * Now you are ready!
