@@ -9,7 +9,7 @@ description 'RDX Identity'
 version '1.2.0'
 
 server_scripts {
-	'@redm_extended/locale.lua',
+	'@rdx_core/locale.lua',
 	'@mysql-async/lib/MySQL.lua',
 	'locales/en.lua',
 	'locales/cs.lua',
@@ -18,7 +18,7 @@ server_scripts {
 }
 
 client_scripts {
-	'@redm_extended/locale.lua',
+	'@rdx_core/locale.lua',
 	'locales/en.lua',
 	'locales/cs.lua',
 	'config.lua',
@@ -33,4 +33,4 @@ files {
 	'html/style.css'
 }
 
-dependency 'redm_extended'
+dependency 'rdx_core'
